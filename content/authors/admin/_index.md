@@ -1,6 +1,6 @@
 ---
-title: Jake Cunningham
 role: PhD Student in Statistical Machine Learning
+avatar_filename: profile.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -36,9 +36,10 @@ education:
     - course: MEng in Engineering Science
       institution: University of Oxford
       year: 2020
-email: ""
 superuser: true
 highlight_name: true
+title: Jake Cunningham
+email: ""
 ---
 I am a PhD student at UCL and part of the CDT in Foundational AI, working under the supervision of Marc Deisenroth. 
 
