@@ -29,13 +29,13 @@ education:
   courses:
     - course: PhD in Machine Learning
       institution: University College London
-      year: 2021
+      year: ""
     - course: MSc in Computing (AI and Machine Learning)
       institution: Imperial College London
-      year: 2042
+      year: 2021
     - course: MEng in Engineering Science
       institution: University of Oxford
-      year: 2016
+      year: 2020
 email: ""
 superuser: true
 highlight_name: true
